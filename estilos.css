@@ -1,0 +1,47 @@
+#contenedor {
+  width: 100%;
+  margin: 0 auto;
+  background-color:black;
+}
+#cabecera {
+background-color: blue;
+color:white;
+text-align:center;
+font-family:impact;
+font-size:100px;
+}
+#menu {
+  float: left;
+  width: 20%;
+  background-color: black;	
+  color:white;
+  
+}
+#contenido {
+  float: left;
+  width: 80%;
+background-color: red;
+color:black;
+}
+#pie {text-align:center;
+  clear: both;
+background-color: green;
+}
+#titulos{
+	text-align:center;
+}
+#textos{
+	text-align:justify;
+	margin-left:20px;
+	margin-right:20px;
+}
+img{
+margin:auto;
+display: block;
+}
+a:visited {
+                color: white;
+            }
+	
+	
+	
